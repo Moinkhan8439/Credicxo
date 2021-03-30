@@ -30,7 +30,7 @@ def api_overview(request):
     url_list={
         'ENDPOINTS FOR Teacher and stuent                               '  :                 Teacher_Student ,
         'ADMIN PANEL                                                    '  :                 '/admin/',
-        'LOGIN                                                          '  :                 '/login/',
+        'LOGIN                                                          '  :                 'accounts/login/',
         'Forget password                                                '  :                 '/password-reset/',
         
 
